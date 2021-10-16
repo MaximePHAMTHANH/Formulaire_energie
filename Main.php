@@ -1,5 +1,3 @@
-<style><?php include "Economies.css"; ?></style>
-
 <?php
 
 include "Departement_from_codepostal.php";
@@ -60,35 +58,6 @@ function Economies($atts, $content=null) {
 
 
 
-       
-       // echo "Superficie  " .$superficie. "m2";
-       // echo "</br>";
-       // echo "Code postal  " .$code_postal;
-       // echo "</br>";
-       // echo "Departement  " .$departement;
-       // echo "</br>";
-       // echo "Nb de pers " .$nb_de_pers;
-       // echo "</br>";
-       // echo "Departement  " .$departement;
-       // echo "</br>";
-       // echo "Revenus  " .$revenus;
-       // echo "</br>";
-       // echo "Revenus moyens " .$revenus_moyen;
-       // echo "</br>";
-       // echo "Couleur  " .$couleur;
-       // echo "</br>";
-       // echo "Prime  " .$prime;
-       // echo "</br>";
-       // echo "Diag  " .$diag_actuel;
-       // echo "</br>";
-       // echo "Chauffage  " .$chauffage_actuel;
-       // echo "</br>";
-       // echo "Parcours  " .$atts[0];
-       // echo "</br>";
-       // echo "Gains  " .$gains;
-       // echo "</br>";
-       // echo "Nv Diag  " .$nv_diag_string;
-       // echo "</br>";
 
 
        //Affichage des resultats
