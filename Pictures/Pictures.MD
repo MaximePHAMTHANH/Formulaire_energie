@@ -1,1 +1,1 @@
-Pictures of the projects
+Pictures of the projects!
