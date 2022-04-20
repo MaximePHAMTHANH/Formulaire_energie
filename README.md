@@ -15,7 +15,7 @@ The Home page of the project:
 # Available forms:
 
 Different forms are available:  
-*Différents formulaire disponibles*
+*Différents formulaires disponibles*
 
 ![Form](Pictures/Available_Forms.PNG)
 
